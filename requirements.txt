@@ -1,0 +1,6 @@
+pandas
+torch
+transformers
+scikit-learn
+evaluate
+sacrebleu
